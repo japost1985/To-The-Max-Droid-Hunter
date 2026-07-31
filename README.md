@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👻 To The Max: Droid Hunter
+# To The Max: Droid Hunter
 ### To The Max: Droid Hunter — Android Security Assessment / Penetration Testing Framework
 
-**Author:** japost1985 | Instagram: [@japost1985](https://www.instagram.com/japost1985)
+**Author:** japost1985 | GitHub: [@japost1985](https://www.github.com/japost1985)
 
 ![Version](https://img.shields.io/badge/Version-2.0.0-blueviolet?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8+-cyan?style=for-the-badge&logo=python)
@@ -11,7 +11,7 @@
 ![License](https://img.shields.io/badge/License-Educational-red?style=for-the-badge)
 )
 
-> ⚠️ **For authorized security testing and educational purposes only.**
+> **For authorized security testing and educational purposes only.**
 
 </div>
 
@@ -21,7 +21,7 @@
 
 **To The Max: Droid Hunter** is a comprehensive, CLI-based Android security assessment framework targeting ethical hackers and professional penetration testers. It integrates multiple attack surfaces into a single tool with a hacker-aesthetic terminal interface.
 
-To The Max: Droid Hunter is developed by HexSec Team / To The Max: Tech for authorized Android security assessment, education, and professional penetration testing workflows.
+To The Max: Droid Hunter is developed by japost1985 / To The Max: Tech for authorized Android security assessment, education, and professional penetration testing workflows.
 
 ---
 
